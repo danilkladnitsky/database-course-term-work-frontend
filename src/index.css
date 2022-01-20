@@ -1,0 +1,15 @@
+@import url('http://fonts.cdnfonts.com/css/aniron');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-family: 'Aniron', sans-serif;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
+  background: url('https://images.squarespace-cdn.com/content/v1/5d3f5ab4e0b0f80001519db3/1626990457893-KDTMF2R30NHNAV672GYN/CFC24B4A-AB8B-49A6-A53A-EC69C297D9DE.jpeg?format=1900w');
+}
